@@ -515,6 +515,9 @@ _deps
 ### Scala template
 
 ### Go template
+
+#Go modules
+!go.mod
 # Binaries for programs and plugins
 *.exe~
 
