@@ -1,0 +1,19 @@
+{
+  "name": "microservices-test-task",
+  "version": "1.0.0",
+  "description": "## Hello, world сервер",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-zo/microservices-test-task-completed.git"
+  },
+  "author": "vpzorin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-zo/microservices-test-task-completed/issues"
+  },
+  "homepage": "https://github.com/v-zo/microservices-test-task-completed#readme"
+}
