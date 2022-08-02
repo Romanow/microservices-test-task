@@ -34,6 +34,6 @@ jobs:
           greeting=$(curl -s http://localhost:8080)
           if [ "$greeting" != "Hello, Alex" ]; then
             echo "Expected [Hello, Alex], but greeting from docker [$greeting] doesn't macthes"
-            echo $greeting
+            echo "$greeting"
             exit 1
           fi
