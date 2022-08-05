@@ -1,0 +1,8 @@
+{
+  "name": "server_helloworld",
+  "version": "1.0.0",
+  "description": "Docker Node.js hello world web server application",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
